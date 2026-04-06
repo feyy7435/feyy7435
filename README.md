@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm 20 years old and currently a second-year student pursuing a Bachelor of Technology (BUT) in Computer Science in Annecy, specializing in Data Administration, Management, and Exploitation (Track C). I have a strong interest in databases and cryptocurrencies. In my free time, I enjoy drawing, listening to music, watching series, sleeping, eating, and learning new things, like languages—currently, I'm studying Korean. I also enjoy staying active and playing sports. I'm a sociable, calm, and organized person, known for being attentive and serious when it comes to my work.
+I'm 21 years old and currently a second-year student pursuing a Bachelor of Technology (BUT) in Computer Science in Annecy, specializing in Data Administration, Management, and Exploitation (Track C). I have a strong interest in databases and cryptocurrencies. In my free time, I enjoy drawing, listening to music, watching series, sleeping, eating, and learning new things, like languages—currently, I'm studying Korean. I also enjoy staying active and playing sports. I'm a sociable, calm, and organized person, known for being attentive and serious when it comes to my work.
 
 
 ## 🌐 Socials:
