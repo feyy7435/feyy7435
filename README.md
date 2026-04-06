@@ -44,36 +44,28 @@ Voici comment me contacter :
 * **Jeux :** Unity
 
 ---
-## 📊 État des Lieux (GitHub & Compétences)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC,E0B0FF&height=200&section=header&text=Feyza%20Tinastepe&fontSize=70&animation=fadeIn" alt="Header Rose Mauve" />
+</div>
 
-### 📈 Statistiques d'Activité
-| Indicateur | Donnée Actuelle |
-| :--- | :--- |
-| **Total Contributions** | **99** |
-| **Current Streak** | **1 Jour** |
-| **Longest Streak** | **4 Jours** |
-| **Période de suivi** | Janv. 2024 - Présent |
+## 📊 Statistiques Dynamiques (Auto-update)
 
-### 🧠 Maîtrise Technique (Estimation)
-*Basé sur mes projets en Data et Développement :*
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=feyy7435&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" alt="Statistiques Globales" />
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feyy7435&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Langages Maîtrisés" />
+  <br/>
 
-* **Python & SQL (Bases de Données)**
-`████████████████████ 95%`
-* **Power BI & KNIME (Analytics)**
-`█████████████████░░░ 88%`
-* **C# & .NET (Desktop App)**
-`████████████████░░░░ 85%`
-* **JavaScript & PHP (Web)**
-`████████████░░░░░░░░ 75%`
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=feyy7435&theme=catppuccin_mocha&hide_border=true" alt="Activité Continue" />
+</div>
 
-### 📁 Répartition des Projets
-| Domaine | Quantité | Niveau |
-| :--- | :---: | :--- |
-| **Big Data & IA** | **5** | `Avancé` |
-| **Bases de Données** | **13** | `Expert` |
-| **Modèles IA** | **3** | `Intermédiaire` |
-| **Langues parlées** | **5** | `Polyglotte` |
+---
 
+### 🔝 Top Contributions
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=feyy7435&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true" alt="Projets Contribués" />
+</div>
 ---
 
 <div align="center">
