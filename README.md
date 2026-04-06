@@ -44,21 +44,14 @@ Voici comment me contacter :
 * **Jeux :** Unity
 
 ---
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC,E0B0FF&height=200&section=header&text=Feyza%20Tinastepe&fontSize=70&animation=fadeIn" alt="Header Rose Mauve" />
-</div>
 
 ## 📊 Statistiques Dynamiques (Auto-update)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=feyy7435&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" alt="Statistiques Globales" />
-  <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feyy7435&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Langages Maîtrisés" />
-  <br/>
+
 
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=feyy7435&theme=catppuccin_mocha&hide_border=true" alt="Activité Continue" />
-</div>
+
 
 ---
 
