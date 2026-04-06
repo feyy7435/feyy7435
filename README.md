@@ -46,24 +46,7 @@ Voici comment me contacter :
 ---
 
 ## 📊 Statistiques Dynamiques (Auto-update)
-
-  
-
-
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=feyy7435&theme=catppuccin_mocha&hide_border=true" alt="Activité Continue" />
-
-
----
-
-### 🔝 Top Contributions
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=feyy7435&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true" alt="Projets Contribués" />
-</div>
----
-
-<div align="center">
-  <sub>Dernière mise à jour : Avril 2026</sub>
-</div>
 ---
 
 <div align="center">
