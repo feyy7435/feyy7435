@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>✨ Étudiante en BUT Informatique (Parcours Data) | Crypto Enthusiast ✨</h3>
+  <h3>✨ Étudiante en BUT Informatique (Parcours Data) ✨</h3>
   
   [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/feyy_.005)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/feyza-tinastepe-32644b2b4)
