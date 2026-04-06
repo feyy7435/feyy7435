@@ -44,13 +44,41 @@ Voici comment me contacter :
 * **Jeux :** Unity
 
 ---
+## 📊 État des Lieux (GitHub & Compétences)
 
-## 📊 GitHub Summary:
+### 📈 Statistiques d'Activité
+| Indicateur | Donnée Actuelle |
+| :--- | :--- |
+| **Total Contributions** | **99** |
+| **Current Streak** | **1 Jour** |
+| **Longest Streak** | **4 Jours** |
+| **Période de suivi** | Janv. 2024 - Présent |
 
-*(Malheureusement, les graphiques statistiques dynamiques ne s'affichent pas sur ton réseau actuel.)*
+### 🧠 Maîtrise Technique (Estimation)
+*Basé sur mes projets en Data et Développement :*
 
-Tu peux consulter mes contributions directement dans l'onglet **"Overview"** de mon profil pour voir mon activité récente, mes dépôts les plus populaires et mes langages les plus utilisés.
+* **Python & SQL (Bases de Données)**
+`████████████████████ 95%`
+* **Power BI & KNIME (Analytics)**
+`█████████████████░░░ 88%`
+* **C# & .NET (Desktop App)**
+`████████████████░░░░ 85%`
+* **JavaScript & PHP (Web)**
+`████████████░░░░░░░░ 75%`
 
+### 📁 Répartition des Projets
+| Domaine | Quantité | Niveau |
+| :--- | :---: | :--- |
+| **Big Data & IA** | **5** | `Avancé` |
+| **Bases de Données** | **13** | `Expert` |
+| **Modèles IA** | **3** | `Intermédiaire` |
+| **Langues parlées** | **5** | `Polyglotte` |
+
+---
+
+<div align="center">
+  <sub>Dernière mise à jour : Avril 2026</sub>
+</div>
 ---
 
 <div align="center">
