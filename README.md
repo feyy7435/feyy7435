@@ -47,7 +47,6 @@ Voici comment me contacter :
 
 ## 📊 Statistiques Dynamiques (Auto-update)
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=feyy7435&theme=catppuccin_mocha&hide_border=true" alt="Activité Continue" />
----
 
 <div align="center">
   <sub>Merci de ta visite ! 😊</sub>
